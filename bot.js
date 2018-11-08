@@ -186,4 +186,9 @@ function play(guild, song) {
 
 	serverQueue.textChannel.send(`بدء تشغيل : **${song.title}**`);
 }
+client.on('ready', () => {
+     client.user.setActivity("$help / $inv | By: iBeAnthonyD_",{type: 'WATCHING'});
+
+});
+
 client.login(process.env.BOT_TOKEN);
