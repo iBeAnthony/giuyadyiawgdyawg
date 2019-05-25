@@ -1,1 +1,0 @@
-vworker: node bot.js
