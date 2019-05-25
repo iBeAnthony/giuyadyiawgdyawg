@@ -1478,8 +1478,4 @@ message.channel.stopTyping()
 }
 });
 
-client.login('NTMxOTUxNzIxOTM3NjMzMjkz.XMxGUw.L7p01E_oy0WuXImn5iQDoGEUOvw');//noperm
-client2.login('NTcxNDc3MDc3ODc0NzA0Mzk2.XMf2Xw.1JLH0c2pcx17uz3yveL9oa_lotU')//1
-client3.login('NTcyMzk4MDY0NTgxNzM4NDk2.XMf3gA.PmD6T7Yq3-7yWvAuUKu6XbDIc9I')//2
-client4.login('NTcwNjcyMzU5ODA0MTA4ODAw.XMf4Eg.aRak0AFdMzECR3TWzhtWa6hEO2g')//3
-client5.login('NTcyNDg4NjgxNjg5MDU1MjUy.XMf4Zg.T1_E1em3WuX6WzDaRutG_OAaN6o')//4
+
